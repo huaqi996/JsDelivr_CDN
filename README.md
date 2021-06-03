@@ -1,2 +1,0 @@
-# JsDelivr_CDN
-cdn
